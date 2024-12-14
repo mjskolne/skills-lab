@@ -32,3 +32,10 @@ public class Main {
     }
 }
 ```
+
+## Task List
+This is an example of a task list, syntax: - [ ] text.  
+- [x] Believe!
+- [ ] Turn on GitHub Pages.
+- [ ] Outline my portfolio.
+- [ ] Introduce myself to the world.
